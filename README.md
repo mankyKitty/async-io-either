@@ -1,7 +1,7 @@
 Async IO Either
 ===============
 
-This is a tiny package that captures an pattern I've been using a lot...
+This is a tiny package that captures a pattern I've been using a lot...
 
 Essentially I am tired of needing something of (IO a) and it so often coming with exceptions
 that are not indicated in the type. Generally speaking my application, like many others, is

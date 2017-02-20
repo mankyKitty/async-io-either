@@ -6,9 +6,9 @@ homepage:            https://github.com/mankyKitty/async-io-either#readme
 license:             BSD3
 license-file:        LICENSE
 author:              Sean Chalmers
-maintainer:          schalmers@iseek.com.au
+maintainer:          sclhiannan@gmail.com
 copyright:           2017 Sean Chalmers
-category:            Werk
+category:            Error Handling
 build-type:          Simple
 extra-source-files:  README.md
 cabal-version:       >=1.10
