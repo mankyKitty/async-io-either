@@ -1,5 +1,5 @@
 name:                async-io-either
-version:             0.1.0.0
+version:             0.1.0.1
 synopsis:            Could be useful
 description:         A way of running any IO type and capturing any exception, maybe, I think...
 homepage:            https://github.com/mankyKitty/async-io-either#readme
