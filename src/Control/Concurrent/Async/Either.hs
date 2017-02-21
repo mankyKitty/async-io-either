@@ -68,8 +68,6 @@ handleRetryToE rPolicy f eFn =
 -- using @STM@. It should catch any and all exceptions in the process, even asynchronous ones!!
 -- The result is a nice friendly @Either@ that you can then use however you desire. Instead of
 -- things lurking around to break your nice Haskell code when you least expect it, BECAUSE IT WASN'T IN THE TYPE.
---
--- *mumble mumble*
 runAsyncForE
   :: MonadIO m
   => IO a
